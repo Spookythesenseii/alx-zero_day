@@ -1,2 +1,1 @@
-My first readme is cool
-How to be up to date in git
+i am a software engineer
